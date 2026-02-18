@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @treyholte
-- 👀 I’m interested in ...Cloud,Cybersecurity, and Big data
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...GTM Engineering, automation, and vibe coding
 - 📫 How to reach me ... email or linkedin
 
 <!---
